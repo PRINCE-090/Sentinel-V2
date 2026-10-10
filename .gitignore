@@ -1,0 +1,15 @@
+# Python
+.venv/
+.sentinel-chatbot-venv/
+.env
+__pycache__/
+*.py[cod]
+budget_advisor_sessions.db
+
+# Node/Vite
+node_modules/
+dist/
+*.tsbuildinfo
+
+# OS files
+.DS_Store

@@ -1,0 +1,9 @@
+{
+  "precision": 1.0,
+  "recall": 0.9961340206185567,
+  "f1_score": 0.9980632666236281,
+  "roc_auc": 1.0,
+  "threshold": 0.5,
+  "n_test_samples": 10000,
+  "n_test_fraud": 776
+}
